@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(44, 44, 77);
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    width: 500px;
+    background-color: white;
+    border-radius: 0.5rem;
+    padding: 8px;
+    margin: auto;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.445);
+}
+
+footer {
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
